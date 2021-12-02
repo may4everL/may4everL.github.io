@@ -1,1 +1,9 @@
+_site
+.sass-cache
+node_modules
+.DS_STORE
+.jekyll-cache
+.env
+.prettierignore
+.jekyll-metadata
 website_template/
